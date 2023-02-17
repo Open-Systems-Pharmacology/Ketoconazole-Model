@@ -2,7 +2,7 @@
 Modeling of published clinical ketoconazole studies for model evaluation
 
 ## Repository files
-Within this repository, we distribute a whole-body parent-metabolite PBPK model for ketoconazole (and its metabolites N-deacetylketoconazole and N-hydroxy-N-deacetylketoconazole). The model was developed using published clinical studies and its predicted performance was evaluated within our DDI network. The file "Ketoconazole-Model" contains simulations of the published clinical studies used during model establishment, including the respective observed data digitized from literature reports. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation, please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)]. 
+Within this repository, we distribute a whole-body parent-metabolite PBPK model for ketoconazole (and its metabolites N-deacetylketoconazole and N-deacetyl-N-hydroxyketoconazole). The model was developed using published clinical studies and its predicted performance was evaluated within our DDI network. The file "Ketoconazole-Model" contains simulations of the published clinical studies used during model establishment, including the respective observed data digitized from literature reports. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation, please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)]. 
 
 ## Version information
 
